@@ -1,0 +1,17 @@
+html {
+    background-color:#8fbc8f;
+}
+
+body {
+    margin: 0;
+}
+
+.site-header {
+    background-color: rgb(110, 15, 83);
+    padding: 30px;
+    color: white;
+}
+
+.page-name {
+    margin: 0;
+}
