@@ -1,0 +1,39 @@
+html{
+    background-color: hsl(52, 100%, 76%);
+}
+
+body{
+    margin:0;
+}
+
+h1{
+    margin:0;
+}
+
+h2{
+    font-size: 20px;
+}
+
+.main-header {
+    background-color: #f7bf26;
+    padding:30px;
+    margin-bottom: 20px;
+}
+
+.uwm-main {
+    background-color: rgb(182, 182, 182);
+    color: rgb(18, 106, 183);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.uwm-footer{
+    background-color: rgb(249, 211, 56);
+    color: rgb(43, 0, 65);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.break{
+    break-after: auto;
+}
