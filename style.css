@@ -21,6 +21,20 @@ body {
     color: white;
 }
 
+.nav-links:hover {
+    background-color: ghostwhite;
+    color: black;
+}
+
+.nav-links:active {
+    background-color: #8fbc8f;
+}
+
+/* this is with the keyboard */
+/* .nav-links:focus {
+    font-size: 20px;
+} */
+
 .main-content {
     background-color: cadetblue;
     padding: 30px;
